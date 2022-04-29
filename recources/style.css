@@ -37,7 +37,6 @@ header {
     text-align: center;
     padding-top: 31px;
     color: lightgrey;
-    /* text-shadow: 2px 3px 4px black; */
 }
 
 .title h1 {
@@ -89,10 +88,6 @@ header {
 }
 
 
-/* .bg3 {
-    background: url(woods-high.png);
-} */
-
 .bg {
     background-color: orange;
     background: url(sebastian-unrau-v4e3JI7DDHI-unsplash.jpg);
@@ -111,6 +106,5 @@ header {
 }
 
 .fun-fact {
-    /* display: inline-block; */
     float: right;
 }
